@@ -1,11 +1,11 @@
 
-### Oie, eu sou a Rebeca! 👋
+### Oi, eu sou a Rebeca! 👋
 
 ##
 
-* 💻 Desenvolvedora de software <br/>
+* 💻 Analista de Dados <br/>
 * 🎓 Analista de Sistemas <br/>
-* 📖 Estudando JavaScript
+* 📖 Estudando SQL
 
  ## ⚡ Git Hub Status
 
